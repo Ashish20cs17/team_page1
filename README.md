@@ -1,5 +1,7 @@
 # team_page
 
+deploy websites: https://stupendous-buttercream-9c9912.netlify.app/
+
 ![Team page 1](https://github.com/Ashish20cs17/team_page1/assets/89733738/259e12f9-702a-4b99-ace6-ea89f299e187)
 ![team page 2](https://github.com/Ashish20cs17/team_page1/assets/89733738/a0718b19-d2a1-4d99-98d4-5623798962ae)
 ![team page 3](https://github.com/Ashish20cs17/team_page1/assets/89733738/10c3dfad-576e-4edf-9510-838fd760c6b2)
